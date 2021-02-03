@@ -97,7 +97,7 @@ export default {
         {
           id: 1,
           fileName: '线上文件,本地跨域(测试用)',
-          fileUrl: 'http://172.16.79.37:8888/group1/M00/00/08/rBBPIV7whg2AQNCmAAoc6DKtkwE841.pdf'
+          fileUrl: 'https://public.kpjushi.cn/public/contract/5kJbFTet5P.pdf'
         },
       ],
       numPages: undefined,
